@@ -1,0 +1,32 @@
+.pull-right{
+	position: absolute;
+	right: 20px;
+	width: 200px;
+	display: inline;
+}
+
+
+nav
+{
+	background-color: black;
+	padding: 10px;
+
+}
+
+nav a
+{
+	display: inline;
+	color: white;
+	font-size: 15px;
+	font-weight: 30px;
+	text-decoration: none;
+
+	
+	
+}
+nav a:hover{color: red;}
+
+body
+{
+	margin: 0px 0px 10px 0px;
+}
